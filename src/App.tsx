@@ -370,7 +370,7 @@ export default function App() {
           {/* Main Brand Faixa Laranja */}
           <div className="px-6 py-4 flex flex-col items-center">
             <h1 className="text-white font-display text-4xl tracking-wide font-normal drop-shadow-md py-1">
-              Minhas Vendas
+              Eliana Vendas
             </h1>
             
             {/* Status Indicator Capsule */}
